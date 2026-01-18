@@ -1,60 +1,49 @@
-What is OSINT? & Powerful Tools Research
+## 🌐 What is OSINT? & Powerful Tools Research
 
-Introduction
+This repository documents my research-based understanding of **Open Source Intelligence (OSINT)** and how OSINT tools are used in **real-world cybersecurity and investigative industries**.
 
-Open Source Intelligence (OSINT) refers to the process of collecting, analyzing, and interpreting information from publicly available sources to support investigations, security assessments, and intelligence-driven decision making. OSINT is a foundational component of modern cybersecurity operations, threat intelligence, digital forensics, and law enforcement investigations.
+The project focuses on **how OSINT works**, how analysts think, and how public data can be ethically collected, analyzed, and correlated for security purposes.
 
-This repository documents a hands-on OSINT research project that demonstrates my practical understanding of OSINT concepts and how OSINT tools are applied in real-world industry scenarios. The focus of this project is not just tool usage, but how intelligence is gathered, validated, and ethically analyzed.
+---
 
-Project Objectives
+## 🎯 Project Focus
 
-Understand the core principles of Open Source Intelligence (OSINT)
+- Understanding OSINT fundamentals  
+- Real-world industry use cases  
+- Digital footprint & exposure analysis  
+- Ethical intelligence gathering  
+- Research-driven documentation  
 
-Research how OSINT is used in real-world cybersecurity and investigative industries
+---
 
-Analyze the strengths and limitations of different OSINT tools
+## 🔍 OSINT Tools & Resources Studied
 
-Develop an intelligence-gathering mindset aligned with industry practices
+- **Harvester** – Public data, emails, and domain intelligence  
+- **Shodan** – Internet-facing devices and exposed services  
+- **Yandex Images** – Reverse image research and identity correlation  
+- **Forensic OSINT** – Digital evidence validation techniques  
+- **Global Terrorism Database (GTD)** – Threat analysis and intelligence research  
 
-Document findings in a professional and ethical manner
+---
 
+## 🧠 Skills Demonstrated
 
-Why OSINT is Important in Cybersecurity
+- OSINT research methodology  
+- Cybersecurity reconnaissance concepts  
+- Analytical & critical thinking  
+- Ethical investigation practices  
+- Professional documentation  
 
-OSINT plays a critical role across multiple domains, including:
+---
 
-Reconnaissance during penetration testing
+## ⚠️ Disclaimer
 
-Threat intelligence and adversary profiling
+This project is for **educational and research purposes only**.  
+All information is collected from **publicly available sources**, following ethical and legal standards.
 
-Digital footprint and exposure analysis
+---
 
-Incident response and attribution support
+## 👤 Author
 
-Law enforcement and counter-terrorism research
-
-
-
-
-OSINT Tools and Resources Researched
-
-This project includes research and practical exposure to the following OSINT tools and data sources:
-
-Harvester – Used for gathering publicly available information related to domains, email addresses, and organizational exposure.
-
-Shodan – Enables discovery of internet-connected devices and services, highlighting real-world attack surfaces.
-
-Yandex Images – Supports reverse image analysis for identity verification and image-based investigations.
-
-Forensic OSINT Techniques – Methods used to preserve, validate, and analyze open-source data for investigative reliability.
-
-Global Terrorism Database (GTD) – A structured open-source dataset used for geopolitical and threat trend analysis.
-
-Each tool was studied in terms of use cases, intelligence value, and limitations within professional environments.
-
-
-
-
-disclaimer
-
-This project is for educational purposes only. The techniques and tools discussed should be used responsibly and in compliance with applicable laws and regulations. The author does not condone misuse of OSINT techniques.
+**Frhn Faya**  
+Cybersecurity Enthusiast | OSINT Researcher
